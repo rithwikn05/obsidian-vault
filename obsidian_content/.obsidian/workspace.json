@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b4094625d0ede8b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94b945262066a4e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a4aa9d0dbd5bfa9c",
+  "active": "6e32fc2d03e717b9",
   "lastOpenFiles": [
+    "CS 274",
     "Welcome.md"
   ]
 }
